@@ -29,12 +29,3 @@ do
 done
 
 echo "Congrats. You guessed the right number!"
-
-
-    
-
-
-
-	
-	
-
